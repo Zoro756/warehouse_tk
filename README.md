@@ -31,7 +31,7 @@ This application allows users to manage products, update stock, and process sale
 ```bash
 warehouse-app/
 │
-├── main.py          # Main application
+├── interface.py     # Main application
 ├── database.py      # Database operations
 ├── warehouse.db     # SQLite database (generated automatically)
 └── README.md
